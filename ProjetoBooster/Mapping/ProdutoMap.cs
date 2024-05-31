@@ -19,8 +19,7 @@ namespace ProjetoBooster.Mapping
 
             builder.Property(x => x.Preco)
                 .HasColumnName("preco")
-                .HasColumnType("decimal(18,2)")
-                .HasMaxLength(100);
+                .IsRequired();
 
         }
     }

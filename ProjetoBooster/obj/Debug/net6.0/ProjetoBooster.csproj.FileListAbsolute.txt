@@ -66,3 +66,4 @@ C:\Users\jpls\source\repos\ProjetoBooster\ProjetoBooster\obj\Debug\net6.0\refint
 C:\Users\jpls\source\repos\ProjetoBooster\ProjetoBooster\obj\Debug\net6.0\ProjetoBooster.pdb
 C:\Users\jpls\source\repos\ProjetoBooster\ProjetoBooster\obj\Debug\net6.0\ProjetoBooster.genruntimeconfig.cache
 C:\Users\jpls\source\repos\ProjetoBooster\ProjetoBooster\obj\Debug\net6.0\ref\ProjetoBooster.dll
+C:\Users\jpls\source\repos\ProjetoBooster\ProjetoBooster\obj\Debug\net6.0\ProjetoBooster.sourcelink.json
